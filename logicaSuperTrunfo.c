@@ -6,6 +6,8 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+
+    int estado;
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
